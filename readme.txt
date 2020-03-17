@@ -36,3 +36,10 @@ Building 705, Hanyang University
 Tel +82-2-2282-0506 | Fax +82-2-2282-0507 | Mobile +82-10-4888-4293
 https://www.autosemantics.co.kr
 Created: March 17 2020
+
+
+Application Preview
+-==================-
+
+https://ibb.co/1ZHP24h
+
