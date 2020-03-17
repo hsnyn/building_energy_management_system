@@ -41,4 +41,4 @@ Created: March 17 2020
 Application Preview
 -==================-
 
-[url=https://ibb.co/1ZHP24h][img]https://i.ibb.co/zsKBftj/BEMS-Preview.png[/img][/url]
+https://i.ibb.co/zsKBftj/BEMS-Preview.png
