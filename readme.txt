@@ -14,6 +14,21 @@ This system is developed specially for Sinseage Dong-Daegu
 The program offers you the following possibilities:
 * Realtime Temperature and humidity Monitoring of indoor(every floor) and outdoor;
 * Artificial Intelligence based algorithm effiiently mananges the energy and cost;
+* Monthly and Daily history preview;
+
+REQUIREMENTS
+-=========-
+
+This system is developed in Python 3.6
+
+The codes require following libraries:
+* PyQt5;
+* Pyqtgraph;
+* Pandas;
+* Numpy;
+* Tensorflow 1.15;
+* Keras 2.2.3;
+
 
 COMMERCIAL OR BUSINESS USE
 -========================-
